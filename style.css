@@ -16,7 +16,7 @@ body{
     background: linear-gradient(45deg, #0a0a0a, #3a4452);
 }
 
-.content{
+.calculator{
     border: 1px solid #717377;
     padding: 20px;
     border-radius: 16px;
@@ -56,9 +56,9 @@ button{
 }
 
 .equalBtn{
-    background-color:#FFA500;
+    background-color: #fb7c14;
 }
 
 .operator{
-    color:#ffffff;
+    color: #6dee0a;
 }
